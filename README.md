@@ -20,7 +20,7 @@ CSS3 (with responsive and modern styling)
 
 Vanilla JavaScript
 
-📁 todo-list/
+📁 todo-list<br>
 ├── index.html
 ├── style.css
 └── script.js
