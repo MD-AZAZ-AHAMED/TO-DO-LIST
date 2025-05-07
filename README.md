@@ -21,8 +21,8 @@ CSS3 (with responsive and modern styling)
 Vanilla JavaScript
 
 📁 todo-list<br>
-├── index.html
-├── style.css
+├── index.html<br>
+├── style.css<br>
 └── script.js
 
 
